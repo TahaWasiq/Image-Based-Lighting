@@ -34,7 +34,6 @@ Core techniques include:
 ---
 
 
-
 ## 📦 Dataset & Folder Access
 
 > ⚠️ **Note:** Due to GitHub’s file size limits, the `images/` and `samples/` folders have been excluded from this repository. These folders contain:
@@ -43,12 +42,13 @@ Core techniques include:
 > - Background photo for 3D object insertion  
 > - Sample HDR content for testing  
 >
-> You can download the full dataset from the link below:
+> You can download the full dataset from the links below:
 
-👉 **Google Drive Folder:**  
-🔗 [https://drive.google.com/drive/folders/YOUR-FOLDER-ID-HERE?usp=sharing](https://drive.google.com/drive/folders/YOUR-FOLDER-ID-HERE?usp=sharing)
+👉 **Google Drive Folders:**  
+- 📁 [`images/`](https://drive.google.com/drive/folders/1aMLa-tkiSDGyYyKx99UXLiP9YUvlTVrS?usp=sharing)  
+- 📁 [`samples/`](https://drive.google.com/drive/folders/12knvUzpd9x3lESZyj4O4kSLyaI4wpOOF?usp=sharing)
 
-> After downloading, place the `images/` and `samples/` folders in the root directory of the repo so the notebook can locate them correctly.
+> After downloading, place both folders in the root directory of the repo so the notebook can locate them correctly.
 
 ---
 
