@@ -44,9 +44,10 @@ Core techniques include:
 >
 > You can download the full dataset from the links below:
 
-👉 **Google Drive Folders:**  
-- 📁 [`images/`](https://drive.google.com/drive/folders/1aMLa-tkiSDGyYyKx99UXLiP9YUvlTVrS?usp=sharing)  
-- 📁 [`samples/`](https://drive.google.com/drive/folders/12knvUzpd9x3lESZyj4O4kSLyaI4wpOOF?usp=sharing)
+👉 **Google Drive Folders:**
+- 📁 [images/](https://drive.google.com/drive/folders/1aMLa-tkiSDGyYyKx99UXLiP9YUvlTVrS?usp=sharing)
+- 📁 [samples/](https://drive.google.com/drive/folders/12knvUzpd9x3lESZyj4O4kSLyaI4wpOOF?usp=sharing)
+
 
 > After downloading, place both folders in the root directory of the repo so the notebook can locate them correctly.
 
